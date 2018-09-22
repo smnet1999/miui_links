@@ -1,0 +1,93 @@
+小米手机1/1S
+20180306183827    http://bigota.d.miui.com/JMACNBL18.0/miui_Mioneplus_JMACNBL18.0_6b0e616a48_4.1.zip
+20180306183827    http://bigota.d.miui.com/4.12.5/miui_Mioneplus_4.12.5_3d5e0ee650_4.1.zip
+小米手机2/2S
+20180226075119    http://bigota.d.miui.com/V9.2.3.0.LXACNEK/miui_MI2_V9.2.3.0.LXACNEK_68e064332d_5.0.zip
+20180226075119    http://bigota.d.miui.com/7.11.16/miui_MI2_7.11.16_33a0285999_5.0.zip
+小米手机2A
+20180212024349    http://bigota.d.miui.com/JLB54.0/miui_MI2A_JLB54.0_48f53d8c3d_4.1.zip
+20180212024349    http://bigota.d.miui.com/4.12.5/miui_MI2A_4.12.5_9a4dd2b79d_4.1.zip
+红米手机1-移动版
+20180218014847    http://bigota.d.miui.com/JHACNBL30.0/miui_HMTD_JHACNBL30.0_467b019b64_4.2.zip
+20180218014847    http://bigota.d.miui.com/7.11.16/miui_HMTD_7.11.16_79d730de3e_4.4.zip
+红米手机1-联通版
+20180218014847    http://bigota.d.miui.com/V7.3.1.0.KHBCNDD/miui_HMW_V7.3.1.0.KHBCNDD_49c9fc7ce6_4.4.zip
+20180218014847    http://bigota.d.miui.com/7.11.16/miui_HMW_7.11.16_92165313af_4.4.zip
+红米手机1S-电信版
+20180307064455    http://bigota.d.miui.com/V9.2.3.0.KHCCNEK/miui_HM1SWC_V9.2.3.0.KHCCNEK_1288e459e5_4.4.zip
+20180307064455    http://bigota.d.miui.com/7.11.16/miui_HM1SWC_7.11.16_2787e0f1ed_4.4.zip
+红米手机1S-移动3G版
+20180307064455    http://bigota.d.miui.com/V9.2.2.0.KHFCNEK/miui_HM1STD_V9.2.2.0.KHFCNEK_12f519b8e6_4.4.zip
+20180307064455    http://bigota.d.miui.com/7.11.16/miui_HM1STD_7.11.16_5054f332c1_4.4.zip
+红米手机1S-移动4G版
+20180307064455    http://bigota.d.miui.com/V9.2.2.0.KHHCNEK/miui_HM1SLTE_V9.2.2.0.KHHCNEK_4ea15607a5_4.4.zip
+20180307064455    http://bigota.d.miui.com/7.11.16/miui_HM1SLTE_7.11.16_8729d48f83_4.4.zip
+	红米Note-联通3G版
+20180213211348    http://bigota.d.miui.com/V9.2.2.0.KHDCNEK/miui_HMNoteW_V9.2.2.0.KHDCNEK_30d42833b4_4.4.zip
+20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNoteW_7.11.16_1dba856d72_4.4.zip
+	红米Note-移动3G版
+20180213211348    http://bigota.d.miui.com/V9.2.2.0.KHECNEK/miui_HMNoteTD_V9.2.2.0.KHECNEK_e29568b76d_4.4.zip
+20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNoteTD_7.11.16_2cc7a79fed_4.4.zip
+	红米Note-移动/联通4G版
+20180213211348    http://bigota.d.miui.com/V9.2.3.0.KHICNEK/miui_HMNoteLTE_V9.2.3.0.KHICNEK_a8ae773b59_4.4.zip
+20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNoteLTE_7.11.16_3ee55b0894_4.4.zip
+	红米Note-4G双卡移动版
+20180213211348    http://bigota.d.miui.com/V9.2.2.0.KHKCNEK/miui_HMNote1S_V9.2.2.0.KHKCNEK_5562fee1c4_4.4.zip
+20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNote1S_7.11.16_24a43302dd_4.4.zip
+小米平板1
+20180209034703    http://bigota.d.miui.com/V9.2.3.0.KXFCNEK/miui_MIPAD_V9.2.3.0.KXFCNEK_5e04908773_4.4.zip
+20180209034703    http://bigota.d.miui.com/7.11.16/miui_MIPAD_7.11.16_6655006dc4_4.4.zip
+红米手机2A-标准版/增强版
+20180306230713    http://bigota.d.miui.com/V9.2.3.0.KHLCNEK/miui_HM2A_V9.2.3.0.KHLCNEK_26c08b155f_4.4.zip
+20180306230713    http://bigota.d.miui.com/7.11.16/miui_HM2A_7.11.16_08481a71d0_4.4.zip
+红米手机2A-高配版
+20180306230713    http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XTDPro_V9.2.3.0.LHJCNEK_9a555fbb8b_5.1.zip
+20180306230713    http://bigota.d.miui.com/7.11.16/miui_HM2XTDPro_7.11.16_d3ff438389_5.1.zip
+红米手机2	移动-标配版
+20180223143930    http://bigota.d.miui.com/V9.2.3.0.KHJCNEK/miui_HM2XTD_V9.2.3.0.KHJCNEK_d07b4c0f36_4.4.zip
+20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XTD_7.11.16_af26316d84_4.4.zip
+红米手机2	联通/电信-标配版
+20180223143930    http://bigota.d.miui.com/V9.2.3.0.KHJCNEK/miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip
+20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XWC_7.11.16_7a3ef4c468_4.4.zip
+红米手机2	移动-增强版
+20180223143930    http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XTDPro_V9.2.3.0.LHJCNEK_9a555fbb8b_5.1.zip
+20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XTDPro_7.11.16_d3ff438389_5.1.zip
+红米手机2	联通/电信-增强版
+20180223143930    http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip
+20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XWCPro_7.11.16_fed84b8ac3_5.1.zip
+小米手机3-移动版
+20180306211346    http://bigota.d.miui.com/V9.2.3.0.KXCCNEK/miui_MI3TD_V9.2.3.0.KXCCNEK_9c5866e4fa_4.4.zip
+20180306211346    http://bigota.d.miui.com/7.11.16/miui_MI3TD_7.11.16_314dc4c6a1_4.4.zip
+小米手机3-联通版/电信版
+20180306211346    http://bigota.d.miui.com/V9.2.3.0.MXDCNEK/miui_MI3WMI4W_V9.2.3.0.MXDCNEK_61c57ff7fe_6.0.zip
+20180306211346    http://bigota.d.miui.com/7.11.16/miui_MI3WMI4W_7.11.16_c076db7f36_6.0.zip
+小米Note
+20180308232101    http://bigota.d.miui.com/V9.2.3.0.MXECNEK/miui_MINote_V9.2.3.0.MXECNEK_5655a9f1ad_6.0.zip
+20180308232101    http://bigota.d.miui.com/7.11.16/miui_MINote_7.11.16_b7036edac9_6.0.zip
+红米手机3
+20180220191319    http://bigota.d.miui.com/V8.5.2.0.LAICNED/miui_HM3_V8.5.2.0.LAICNED_639757f037_5.1.zip
+20180220191319    http://bigota.d.miui.com/8.2.1/miui_HM3_8.2.1_e7eebc42b0_5.1.zip
+红米手机3S/3X
+20180212030240    http://bigota.d.miui.com/V9.2.1.0.MALCNEK/miui_HM3S_V9.2.1.0.MALCNEK_fe706c31c4_6.0.zip
+20180212030240    http://bigota.d.miui.com/8.2.1/miui_HM3S_8.2.1_b29cacbf2f_6.0.zip
+红米Note 3-双网通版
+20180227095005    http://bigota.d.miui.com/V9.2.3.0.LHNCNEK/miui_HMNote3_V9.2.3.0.LHNCNEK_d74df6d640_5.0.zip
+20180227095005    http://bigota.d.miui.com/8.2.1/miui_HMNote3_8.2.1_9b03e44045_5.0.zip
+红米Note 3-全网通版
+20180227095005    http://bigota.d.miui.com/V8.5.5.0.MHOCNED/miui_HMNote3Pro_V8.5.5.0.MHOCNED_ae6b329eae_6.0.zip
+20180227095005    http://bigota.d.miui.com/8.2.1/miui_HMNote3Pro_8.2.1_a2fdadb866_6.0.zip
+红米Note 2
+20180307064459    http://bigota.d.miui.com/V9.2.3.0.LHMCNEK/miui_HMNote2_V9.2.3.0.LHMCNEK_6d304fad31_5.0.zip
+20180307064459    http://bigota.d.miui.com/8.3.1/miui_HMNote2_8.3.1_c7dc3ce5f4_5.0.zip
+红米手机Pro
+20180204003846    http://bigota.d.miui.com/V9.2.1.0.MHQCNEK/miui_HMPro_V9.2.1.0.MHQCNEK_ab358886ad_6.0.zip
+20180204003846    http://bigota.d.miui.com/8.2.1/miui_HMPro_8.2.1_e926a6c29f_6.0.zip
+小米Note 顶配版
+20180212103923    http://bigota.d.miui.com/V9.2.3.0.NXHCNEK/miui_MINotePro_V9.2.3.0.NXHCNEK_1deef92a66_7.0.zip
+20180212103923    http://bigota.d.miui.com/7.11.16/miui_MINotePro_7.11.16_e79004314c_7.0.zip
+小米Max-全网通版
+20180305014618    http://bigota.d.miui.com/V9.5.1.0.NBCCNFA/miui_MIMAX_V9.5.1.0.NBCCNFA_4944ec87e5_7.0.zip
+20180305014618    http://bigota.d.miui.com/8.3.1/miui_MIMAX_8.3.1_615c61c89b_7.0.zip
+小米Max-高配全网通版
+20180305014618    http://bigota.d.miui.com/V9.5.1.0.NBDCNFA/miui_MIMAX652_V9.5.1.0.NBDCNFA_1df68eec30_7.0.zip
+20180305014618    http://bigota.d.miui.com/8.3.1/miui_MIMAX652_8.3.1_b959db3b91_7.0.zip
