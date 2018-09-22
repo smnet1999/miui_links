@@ -22,16 +22,16 @@
 红米手机1S-移动4G版
 20180307064455    http://bigota.d.miui.com/V9.2.2.0.KHHCNEK/miui_HM1SLTE_V9.2.2.0.KHHCNEK_4ea15607a5_4.4.zip
 20180307064455    http://bigota.d.miui.com/7.11.16/miui_HM1SLTE_7.11.16_8729d48f83_4.4.zip
-	红米Note-联通3G版
+红米Note-联通3G版
 20180213211348    http://bigota.d.miui.com/V9.2.2.0.KHDCNEK/miui_HMNoteW_V9.2.2.0.KHDCNEK_30d42833b4_4.4.zip
 20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNoteW_7.11.16_1dba856d72_4.4.zip
-	红米Note-移动3G版
+红米Note-移动3G版
 20180213211348    http://bigota.d.miui.com/V9.2.2.0.KHECNEK/miui_HMNoteTD_V9.2.2.0.KHECNEK_e29568b76d_4.4.zip
 20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNoteTD_7.11.16_2cc7a79fed_4.4.zip
-	红米Note-移动/联通4G版
+红米Note-移动/联通4G版
 20180213211348    http://bigota.d.miui.com/V9.2.3.0.KHICNEK/miui_HMNoteLTE_V9.2.3.0.KHICNEK_a8ae773b59_4.4.zip
 20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNoteLTE_7.11.16_3ee55b0894_4.4.zip
-	红米Note-4G双卡移动版
+红米Note-4G双卡移动版
 20180213211348    http://bigota.d.miui.com/V9.2.2.0.KHKCNEK/miui_HMNote1S_V9.2.2.0.KHKCNEK_5562fee1c4_4.4.zip
 20180213211348    http://bigota.d.miui.com/7.11.16/miui_HMNote1S_7.11.16_24a43302dd_4.4.zip
 小米平板1
@@ -43,16 +43,16 @@
 红米手机2A-高配版
 20180306230713    http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XTDPro_V9.2.3.0.LHJCNEK_9a555fbb8b_5.1.zip
 20180306230713    http://bigota.d.miui.com/7.11.16/miui_HM2XTDPro_7.11.16_d3ff438389_5.1.zip
-红米手机2	移动-标配版
+红米手机2移动-标配版
 20180223143930    http://bigota.d.miui.com/V9.2.3.0.KHJCNEK/miui_HM2XTD_V9.2.3.0.KHJCNEK_d07b4c0f36_4.4.zip
 20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XTD_7.11.16_af26316d84_4.4.zip
-红米手机2	联通/电信-标配版
+红米手机2联通/电信-标配版
 20180223143930    http://bigota.d.miui.com/V9.2.3.0.KHJCNEK/miui_HM2XWC_V9.2.3.0.KHJCNEK_906f1865bf_4.4.zip
 20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XWC_7.11.16_7a3ef4c468_4.4.zip
-红米手机2	移动-增强版
+红米手机2移动-增强版
 20180223143930    http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XTDPro_V9.2.3.0.LHJCNEK_9a555fbb8b_5.1.zip
 20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XTDPro_7.11.16_d3ff438389_5.1.zip
-红米手机2	联通/电信-增强版
+红米手机2联通/电信-增强版
 20180223143930    http://bigota.d.miui.com/V9.2.3.0.LHJCNEK/miui_HM2XWCPro_V9.2.3.0.LHJCNEK_77056c722f_5.1.zip
 20180223143930    http://bigota.d.miui.com/7.11.16/miui_HM2XWCPro_7.11.16_fed84b8ac3_5.1.zip
 小米手机3-移动版
